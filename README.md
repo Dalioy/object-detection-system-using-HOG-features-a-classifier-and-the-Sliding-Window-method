@@ -1,0 +1,1 @@
+# object-detection-system-using-HOG-features-a-classifier-and-the-Sliding-Window-method
